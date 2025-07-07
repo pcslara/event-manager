@@ -81,9 +81,6 @@ Sistema online para gerenciar eventos acadêmicos, científicos ou corporativos.
 ## Possíveis Extensões Futuras
 
 - Envio de notificações por e-mail ou WhatsApp
-- Módulo para submissão e avaliação de trabalhos
-- Integração com sistemas de pagamento (caso haja eventos pagos)
-- Exportação de relatórios em Excel
 
 ---
 
